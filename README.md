@@ -1,7 +1,7 @@
 # cs401-banking-system
 
 ## What the project is about
-- This is a banking system that works over a mutli threaded server
+- This is a banking system that works over a multi-threaded server
 - There are two ways that a customer can access the banking system via ATM or through a Bank Teller that can help
 - The ATM provide simple tasks like depositing and withdrawals as well as transferring money back and forth between checking and savings
 - the Bank Teller can create and delete customers if needed
